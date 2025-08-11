@@ -54,6 +54,20 @@
 
 ---
 
+## 💡 Random Dev Quote  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</p>
+
+---
+
+## 🎬 Fun Coding Vibes  
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding GIF"/>
+</p>
+
+---
+
 ## 🌐 Connect with Me  
 <p align="left">
 <a href="https://linkedin.com/in/harishchandrathakur" target="_blank">
