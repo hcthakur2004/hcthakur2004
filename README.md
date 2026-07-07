@@ -51,14 +51,19 @@ My work includes building **RAG-based education features**, designing **ETL and 
 
 ### OpenLineage
 
-Contributed merged pull requests to **OpenLineage**, an LF AI & Data open-source data lineage project.
+I actively contribute to **OpenLineage**, an LF AI & Data open-source data lineage project. I have contributed **9 merged pull requests** across Python client reliability, dbt integration, Great Expectations integration, common utilities, transport handling, CI metadata detection, and regression test coverage.
 
 - [PR #4489](https://github.com/OpenLineage/OpenLineage/pull/4489) - Fixed dbt provider runtime edge cases with null guards and parametrized tests.
 - [PR #4503](https://github.com/OpenLineage/OpenLineage/pull/4503) - Improved UTF-8 handling for dbt logs, manifest files, metadata JSON, and YAML artifacts.
-- [PR #4561](https://github.com/OpenLineage/OpenLineage/pull/4561) - Enhanced GitHub Actions PR ref detection with regression coverage.
+- [PR #4561](https://github.com/OpenLineage/OpenLineage/pull/4561) - Enhanced GitHub Actions pull request detection for `refs/pull/<number>/head`.
+- [PR #4586](https://github.com/OpenLineage/OpenLineage/pull/4586) - Isolated Datadog transport config defaults and added regression coverage.
+- [PR #4624](https://github.com/OpenLineage/OpenLineage/pull/4624) - Fixed trailing command option parsing.
+- [PR #4627](https://github.com/OpenLineage/OpenLineage/pull/4627) - Preserved nullable chain input behavior.
+- [PR #4656](https://github.com/OpenLineage/OpenLineage/pull/4656) - Added support for local `file://` URI paths in Python file transport.
+- [PR #4679](https://github.com/OpenLineage/OpenLineage/pull/4679) - Preserved Great Expectations datasource URL ports during credential stripping.
+- [PR #4696](https://github.com/OpenLineage/OpenLineage/pull/4696) - Restored Python HTTP debuglevel after failed emits and added regression coverage.
 
 Also contributed to CNCF / LFX Mentorship documentation through [PR #1835](https://github.com/cncf/mentoring/pull/1835).
-
 ---
 
 ## Featured Projects
